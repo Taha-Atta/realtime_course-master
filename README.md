@@ -1,9 +1,7 @@
-## Laravel Realtime Notifications Course Files on Udemy
+## Laravel Realtime Notifications Course 
 
-<img src="https://img-b.udemycdn.com/course/750x422/5669532_824d.jpg"> 
 
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
+
 
 This is the main readme file for the code used in laravel realtime course on Udemy
 
