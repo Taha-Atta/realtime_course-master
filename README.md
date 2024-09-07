@@ -9,11 +9,9 @@ This is the main readme file for the code
 
 To get started, clone this repository.
 
-```
-git clone https://github.com/engsahaly/realtime_course.git
-```
 
-Next, copy your `.env.example` file as `.env` and configure your Database connection.
+
+ copy your `.env.example` file as `.env` and configure your Database connection.
 
 ```
 DB_CONNECTION=mysql
