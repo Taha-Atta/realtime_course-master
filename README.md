@@ -3,7 +3,7 @@
 
 
 
-This is the main readme file for the code used in laravel realtime course on Udemy
+This is the main readme file for the code 
 
 ## Installation
 
